@@ -1,3 +1,77 @@
+# 🍽️ NextLevel Food
+
+ sharing application built with **Next.js**, **React**, **Tailwind CSS**, and **SQLite**. Users can explore recipes, view meal details, and share their own meals with the community.
+---
+
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Home](https://github.com/user-attachments/assets/fe9dbd67-d109-4c61-b371-36627fc474ef)
+
+### 🍔 Meals Page
+
+![Meals](https://github.com/user-attachments/assets/8a525253-687b-48b1-a4b6-40607a612988)
+
+### 📤 Share Meal
+
+![Share Meal](https://github.com/user-attachments/assets/0271bfb8-9131-4811-81ef-840d833173ef)
+
+---
+
+## ✨ Features
+
+- 🍽 Browse delicious meals
+- 📖 View meal details
+- 📤 Share your own recipes
+- 🖼 Upload meal images
+- 💾 SQLite database
+- 📱 Fully responsive design
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- Tailwind CSS
+- SQLite
+- better-sqlite3
+
+---
+
+## ⚙️ Installation
+
+```bash
+git clone https://github.com/amar-omar/Food-App.git
+
+cd Food-App
+
+npm install
+
+npm run dev
+```
+
+---
+
+## 📂 Project Structure
+
+```
+app/
+lib/
+public/
+meals.db
+```
+
+---
+
+## 👨‍💻 Author
+
+**Amar Omar**
+
+- GitHub: https://github.com/amar-omar
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
