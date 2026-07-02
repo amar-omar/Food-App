@@ -1,7 +1,7 @@
 import Image from "next/image";
-import EggDish from "../../../public/Images/EggDish.jpg";
-import Kitchen from "../../../public/Images/Kitchen.jpg";
-import Family from "../../../public/Images/Family.jpg";
+import EggDish from "../../../public/images/EggDish.jpg";
+import Kitchen from "../../../public/images/Kitchen.jpg";
+import Family from "../../../public/images/Family.jpg";
 export default function CommunityPage() {
 return (
   <>

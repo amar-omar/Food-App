@@ -1,7 +1,7 @@
 'use client';
 import Link from "next/link";
 import React from "react";
-import LogoImg from '../../../public/Images/Logo.jpeg'
+import LogoImg from '../../../public/images/Logo.jpeg'
 import Image from "next/image";
 
 export default function Header() {
